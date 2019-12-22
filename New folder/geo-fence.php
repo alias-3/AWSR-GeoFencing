@@ -40,7 +40,7 @@ session_start();
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRTq62iKEHDeIbW0E3o3hQGaspaADXc9I&libraries=drawing" ></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=_API_KEY_&libraries=drawing" ></script>
   
 	<script type="text/javascript" src="gmaps.js"></script>
 	<link rel="stylesheet" type="text/css" href="animate.css">

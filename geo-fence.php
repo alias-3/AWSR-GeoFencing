@@ -39,7 +39,7 @@ session_start();
 	
   
 
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRTq62iKEHDeIbW0E3o3hQGaspaADXc9I&libraries=drawing" ></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=_API_KEY_&libraries=drawing" ></script>
   
 	<script type="text/javascript" src="gmaps.js"></script>
 
